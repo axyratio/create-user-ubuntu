@@ -1,5 +1,12 @@
 # create-user-ubuntu
 
+## install wsl ubuntu
+```
+wsl --instasll
+```
+
+then restart.
+
 ## add user
 ```
 adduser user
