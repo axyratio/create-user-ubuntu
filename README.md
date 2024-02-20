@@ -1,6 +1,11 @@
 # create-user-ubuntu
 ## install wsl ubuntu
 
+## open your ubuntu
+```
+ubuntu
+```
+
 before install your os, please check your os.
 
 ```
