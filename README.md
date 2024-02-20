@@ -1,8 +1,7 @@
 # create-user-ubuntu
-
 ## install wsl ubuntu
 ```
-wsl --instasll
+wsl --install
 ```
 
 then restart.
@@ -18,3 +17,6 @@ su - user
 ```
 deluser user
 ```
+
+common command
+## make directorie
