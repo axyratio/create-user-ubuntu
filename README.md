@@ -33,6 +33,13 @@ cd /path/path
 ls # check list in folder
 mkdir <you directorie> #make directorie
 cat yourfile #read file
-echo "your text" > folder
+echo "your text" > folder #create file
+mv dir/file dir/file
+```
 
+## symbol in command
+```
+t* is all file "t..."
+? is one charector
+?? is two charector
 ```
