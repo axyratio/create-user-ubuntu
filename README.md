@@ -14,7 +14,7 @@ wsl --install
 
 then restart.
 
-## add user
+## add user more
 ```
 adduser user
 usermod -a -G sudo user
