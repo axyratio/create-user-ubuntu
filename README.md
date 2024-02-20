@@ -12,7 +12,7 @@ if ubuntu is not avalible, install ubu.
 wsl --install
 ```
 
-then restart and input UNIX username, UNIX password.
+then restart, Enter The UNIX username and UNIX password.
 
 
 ## add user more
@@ -33,13 +33,15 @@ cd /path/path
 ls # check list in folder
 mkdir <you directorie> #make directorie
 cat yourfile #read file
-echo "your text" > folder #create file
-mv dir/file dir/file
+echo "your text" > folder #create file wtih text
+touch file # create file
+mv dir/file dir/file #move
+cp dir/file dir/file #copy
 ```
 
 ## symbol in command
 ```
 t* is all file "t..."
-? is one charector
-?? is two charector
+? is any one charector
+?? is any two charector
 ```
