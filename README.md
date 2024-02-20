@@ -6,13 +6,14 @@
 ubuntu
 ```
 
-before install your os, please check your os.
+if ubuntu is not avalible, install ubu.
 
 ```
 wsl --install
 ```
 
-then restart.
+then restart and input UNIX username, UNIX password.
+
 
 ## add user more
 ```
