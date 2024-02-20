@@ -1,5 +1,8 @@
 # create-user-ubuntu
 ## install wsl ubuntu
+
+before install your os, please check your os.
+
 ```
 wsl --install
 ```
@@ -18,5 +21,10 @@ su - user
 deluser user
 ```
 
-common command
-## make directorie
+## common command
+```
+cd /path/path
+ls # check list in folder
+mkdir <you directorie> #make directorie
+
+```
