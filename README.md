@@ -31,5 +31,7 @@ deluser user
 cd /path/path
 ls # check list in folder
 mkdir <you directorie> #make directorie
+cat yourfile #read file
+echo "your text" > folder
 
 ```
